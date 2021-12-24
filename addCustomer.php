@@ -1,5 +1,5 @@
 <?php
 
-echo "Please add new customers";
+echo "Please add new customers for hello";
 
 ?>
